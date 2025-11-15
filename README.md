@@ -93,18 +93,27 @@ while the list of products is **mutable**, allowing users to add and remove item
 
 A simple Python-based contact management system that allows users to store, view, search, and sort contact information using list methods and slicing.
 
-## 📂 Project Overview
+## 🎯 How It Works
 
-This project demonstrates the use of 2D lists, sorting, slicing, and partial string matching in Python.
-Each contact is stored as a list containing:
+-The program asks for three student names and their grades.
 
-Name
+-It then asks for three hobbies and stores them in a set.
 
-Phone Number
+-The hobby set is converted into a frozenset for safe long-term storage.
 
-Email Address
+-All collected data is displayed at the end. Project Overview
 
-All contacts together form a 2D list.
+-This project demonstrates the use of 2D lists, sorting, slicing, and partial string matching in Python.
+
+## Each contact is stored as a list containing:
+
+-Name
+
+-Phone Number
+
+-Email Address
+
+-All contacts together form a 2D list.
 
 ## ✨ Features
 ✔ Add a New Contact
@@ -117,7 +126,7 @@ The full list of contacts is automatically sorted alphabetically by name.
 
 ✔ Display Contacts
 
-All contacts are shown after sorting.
+## All contacts are shown after sorting.
 
 ✔ Show Only the First 3 Contacts
 
@@ -142,3 +151,49 @@ String methods (lower(), substring matching)
 
 ----------------------------------------------
 ----------------------------------------------
+
+
+# 5.🎓 Student Grades & Hobbies Tracker
+
+## 📌 Project Overview
+
+This project tracks academic and activity information for students. It uses three important Python data structures:
+
+## 1.📘 Dictionary
+
+Used to store student names and their grades.
+
+Keys = Student names
+
+Values = Grades
+
+Allows easy updates when a student’s grade changes.
+
+## 2.✨ Set
+
+Used to store hobbies.
+
+Automatically removes duplicates.
+
+Great for collecting unique items.
+
+## 3.🧠 Frozenset
+
+An immutable version of a set.
+
+Prevents accidental modification.
+
+Useful for permanently storing the final hobby list.
+
+## 🎯 How It Works
+
+The program asks for three student names and their grades.
+
+It then asks for three hobbies and stores them in a set.
+
+The hobby set is converted into a frozenset for safe long-term storage.
+
+All collected data is displayed at the end.
+
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
