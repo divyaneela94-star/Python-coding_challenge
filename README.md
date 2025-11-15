@@ -85,5 +85,60 @@ while the list of products is **mutable**, allowing users to add and remove item
 ✔ Index-based operations  
 ✔ `if` condition for validation  
 
+
+----------------------------------------------------------------
+----------------------------------------------------------------
+
+# 4. 📘 Contact Directory
+
+A simple Python-based contact management system that allows users to store, view, search, and sort contact information using list methods and slicing.
+
+## 📂 Project Overview
+
+This project demonstrates the use of 2D lists, sorting, slicing, and partial string matching in Python.
+Each contact is stored as a list containing:
+
+Name
+
+Phone Number
+
+Email Address
+
+All contacts together form a 2D list.
+
+## ✨ Features
+✔ Add a New Contact
+
+Users can input a name, phone number, and email, which is then added to the directory.
+
+✔ Alphabetical Sorting
+
+The full list of contacts is automatically sorted alphabetically by name.
+
+✔ Display Contacts
+
+All contacts are shown after sorting.
+
+✔ Show Only the First 3 Contacts
+
+Uses slicing (contacts[:3]) to display only the first three entries.
+
+✔ Search by Name (Partial Match Supported)
+
+Users can search using full or partial names.
+Example: searching "al" will match "Alice Johnson".
+
+## 🧠 Concepts Covered
+
+2D Lists
+
+Appending to lists
+
+Sorting with key functions
+
+List slicing
+
+String methods (lower(), substring matching)
+
 ----------------------------------------------
 ----------------------------------------------
