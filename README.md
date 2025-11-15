@@ -1,0 +1,26 @@
+# 🎓 Student Profile Creator 
+
+## 📌 Project Overview
+This project simulates a simple student information system for a school. 
+It stores basic student details such as **name, age, and favourite subjects**,
+and displays them in a structured manner. It also demonstrates how to update the student’s list of interests.
+
+---
+
+## 🎯 Objectives
+- Create and store information using variables
+- Work with Python lists
+- Display data clearly using formatted strings
+- Modify and print updated values
+
+---
+
+## 🧠 Concepts Covered
+✔ Variables  
+✔ Lists & `.append()`  
+✔ String formatting (`f""`)  
+✔ Loops (`for`)  
+✔ Print formatting  
+
+------------------------------
+------------------------------
