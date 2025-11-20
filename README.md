@@ -197,3 +197,50 @@ All collected data is displayed at the end.
 
 -----------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------
+# 6.📘 BMI Calculator
+
+A simple Python program that calculates a user’s Body Mass Index (BMI) and classifies their health category using basic operators and conditional statements.
+
+## 📌 Overview
+
+This tool helps users quickly compute their BMI using their weight and height. After calculation, the program displays the BMI value along with the corresponding health classification.
+
+## ✨ Features
+
+Accepts integer inputs for weight (kg) and height (cm).
+
+Converts height to meters before performing calculations.
+
+Computes BMI using the formula:
+
+BMI = weight / (height_in_meters²)
+
+
+## Classifies BMI into:
+
+Underweight
+
+Normal weight
+
+Overweight
+
+Obese
+
+Displays results clearly and neatly.
+
+## 🧮 How to Use
+
+Run the Python script.
+
+Enter weight in kilograms when prompted.
+
+Enter height in centimeters when prompted.
+
+View your calculated BMI and health category.
+
+## 💻 Example
+Enter your weight in kilograms (integer): 72
+Enter your height in centimeters (integer): 175
+
+Your BMI is: 23.51
+Health category: Normal weight
