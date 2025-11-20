@@ -244,3 +244,61 @@ Enter your height in centimeters (integer): 175
 
 Your BMI is: 23.51
 Health category: Normal weight
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+# 7.🛒 Shopping Cart System
+
+A simple Python-based billing program that allows customers to enter item prices, automatically applies discounts, and generates a clean final bill summary.
+
+## 📘 Overview
+
+This program simulates a minimal shopping cart billing system. Users enter prices of items one by one, and when finished, the program calculates the subtotal, applies the correct discount, and displays the final bill.
+
+## ✨ Features
+
+Accepts item prices continuously using a while loop.
+
+Uses 0 as a sentinel value to stop input.
+
+Rejects and re-asks negative values without counting them as items.
+
+Calculates subtotal and item count.
+
+## Applies discounts based on subtotal:
+
+20% for totals ≥ 1000
+
+10% for totals ≥ 500
+
+5% for totals ≥ 200
+
+0% for totals < 200
+
+Generates a clear final bill summary.
+
+## 🧮 How It Works
+
+Run the script.
+
+Enter the price of each item (one per line).
+
+Enter 0 when you are done.
+
+The program will calculate your discount and final total automatically.
+
+## 💻 Example Interaction
+Enter item price (0 to finish): 250
+Enter item price (0 to finish): 300
+Enter item price (0 to finish): -10
+Negative prices are not allowed. Please enter again.
+Enter item price (0 to finish): 600
+Enter item price (0 to finish): 0
+
+----- BILL SUMMARY -----
+Total items: 3
+Subtotal: $1150.00
+Discount applied: 20%
+Discount amount: $230.00
+Final total: $920.00
+------------------------
