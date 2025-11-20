@@ -239,11 +239,15 @@ Enter height in centimeters when prompted.
 View your calculated BMI and health category.
 
 ## 💻 Example
+
 Enter your weight in kilograms (integer): 72
+
 Enter your height in centimeters (integer): 175
 
 Your BMI is: 23.51
+
 Health category: Normal weight
+
 -----------------------------------------------------------------------------
 -----------------------------------------------------------------------------
 
@@ -288,17 +292,29 @@ Enter 0 when you are done.
 The program will calculate your discount and final total automatically.
 
 ## 💻 Example Interaction
+
 Enter item price (0 to finish): 250
+
 Enter item price (0 to finish): 300
+
 Enter item price (0 to finish): -10
+
 Negative prices are not allowed. Please enter again.
+
 Enter item price (0 to finish): 600
+
 Enter item price (0 to finish): 0
 
 ----- BILL SUMMARY -----
+
 Total items: 3
+
 Subtotal: $1150.00
+
 Discount applied: 20%
+
 Discount amount: $230.00
+
 Final total: $920.00
+
 ------------------------
