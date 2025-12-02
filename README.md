@@ -320,24 +320,24 @@ Final total: $920.00
 ------------------------
 ------------------------
 
-## Project: Student Exam Score Report
+# 8.Project: Student Exam Score Report
 
 This small Python project analyzes exam score data and generates basic performance insights.
 
-# Features Covered
-# 1. Random Score Generation
+## Features Covered
+### 1. Random Score Generation
 
 A list comprehension is used alongside a random number generator to create 10 exam scores between 0 and 100.
 
-# 2. Indexed Display of Scores
+### 2. Indexed Display of Scores
 
 The enumerate() function provides both index and value, making it easy to reference each score's position in the list.
 
-# 3. Filtering High Scores
+### 3. Filtering High Scores
 
 A second list comprehension filters out all values above 75 for quick identification of strong performers.
 
-# 4. Average Score Calculation
+### 4. Average Score Calculation
 
 A simple arithmetic mean is calculated using sum() and len() to get an overall performance measure.
 
