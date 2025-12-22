@@ -345,3 +345,37 @@ This project demonstrates fundamental iteration techniques, list comprehension, 
 
 -------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------
+
+#🧮 Project: Simple Calculator App
+
+##📌 Objective
+
+To create a simple calculator using user-defined functions and Python built-in functions to perform basic mathematical operations.
+---------------------------------------------------------------------------------------------------
+##🧠 Built-in Functions Used
+
+###Function               	###Purpose
+
+abs()	                  Returns absolute (positive) value
+
+round()               	Rounds the result to given decimal places
+
+pow()	                  Calculates power of a number
+
+input()	                Takes user input
+
+float()	                Converts input to decimal numbers
+----------------------------------------------------------------------------------------------------
+##⚠️ Error Handling
+
+Division by zero is handled using a conditional check.
+
+Displays a clear message instead of crashing the program.
+---------------------------------------------------------------------------------------------------
+✔ User-defined functions improve code reusability and readability
+
+✔ Built-in functions simplify mathematical calculations
+
+✔ Error handling ensures program stability and user safe
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
