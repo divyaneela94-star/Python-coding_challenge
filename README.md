@@ -389,6 +389,7 @@ Displays a clear message instead of crashing the program.
 
 This project demonstrates the use of NumPy arrays and operations in Python.
 It covers creating 1D, 2D, and 3D arrays, performing arithmetic operations, and applying commonly used NumPy functions for numerical analysis.
+
 ------------------------------------
 ## 🛠️ Technologies Used
 
