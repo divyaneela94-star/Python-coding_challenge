@@ -354,17 +354,17 @@ To Create a simple Calculator using user_defined function and python built-in fu
 ---------------------------------------------------------------------------------------------------
 ## Built-in Functions Used
 
-### Function              Purpose
+### Function        -      Purpose
 
-abs()	                  Returns absolute (positive) value
+abs()	       -           Returns absolute (positive) value
 
-round()               	Rounds the result to given decimal places
+round()      -         	Rounds the result to given decimal places
 
-pow()	                  Calculates power of a number
+pow()	       -           Calculates power of a number
 
-input()	                Takes user input
+input()	      -          Takes user input
 
-float()	                Converts input to decimal numbers
+float()	      -          Converts input to decimal numbers
 ----------------------------------------------------------------------------------------------------
 ## ⚠️ Error Handling
 
