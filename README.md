@@ -346,15 +346,15 @@ This project demonstrates fundamental iteration techniques, list comprehension, 
 -------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------
 
-#🧮 Project: Simple Calculator App
+# 9.Project: Simple Calculator App
 
-##📌 Objective
+## Objective
 
-To create a simple calculator using user-defined functions and Python built-in functions to perform basic mathematical operations.
+To Create a simple Calculator using user_defined function and python built-in functions to perform basic mathematical operations.
 ---------------------------------------------------------------------------------------------------
-##🧠 Built-in Functions Used
+## Built-in Functions Used
 
-###Function               	###Purpose
+### Function              Purpose
 
 abs()	                  Returns absolute (positive) value
 
@@ -366,7 +366,7 @@ input()	                Takes user input
 
 float()	                Converts input to decimal numbers
 ----------------------------------------------------------------------------------------------------
-##⚠️ Error Handling
+## ⚠️ Error Handling
 
 Division by zero is handled using a conditional check.
 
