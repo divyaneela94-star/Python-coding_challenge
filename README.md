@@ -351,6 +351,7 @@ This project demonstrates fundamental iteration techniques, list comprehension, 
 ## Objective
 
 To Create a simple Calculator using user_defined function and python built-in functions to perform basic mathematical operations.
+
 ---------------------------------------------------------------------------------------------------
 ## Built-in Functions Used
 
@@ -365,17 +366,116 @@ pow()	       -           Calculates power of a number
 input()	      -          Takes user input
 
 float()	      -          Converts input to decimal numbers
+
 ----------------------------------------------------------------------------------------------------
 ## ⚠️ Error Handling
 
 Division by zero is handled using a conditional check.
 
 Displays a clear message instead of crashing the program.
----------------------------------------------------------------------------------------------------
+
 ✔ User-defined functions improve code reusability and readability
 
 ✔ Built-in functions simplify mathematical calculations
 
 ✔ Error handling ensures program stability and user safe
+
 -----------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------
+
+# 📊 NumPy Arrays & Operations
+
+## 📌 Project Overview
+
+This project demonstrates the use of NumPy arrays and operations in Python.
+It covers creating 1D, 2D, and 3D arrays, performing arithmetic operations, and applying commonly used NumPy functions for numerical analysis.
+------------------------------------
+## 🛠️ Technologies Used
+
+* Python 🐍
+
+* NumPy 📦
+--------------------------------------------------
+## 🎯 Objectives
+
+Create 1D, 2D, and 3D NumPy arrays
+
+Perform addition, subtraction, multiplication, and division
+
+Use NumPy functions like mean(), sum(), std(), reshape()
+
+Generate arrays using arange() and linspace()
+
+Find indices of maximum and minimum values
+
+------------------------------------------------------------------
+## 📂 Features Covered
+
+### ✅ Array Creation
+
+1D Array
+
+2D Array
+
+3D Array
+
+--------------------------------------------------------
+## ✅ Arithmetic Operations
+
+Addition
+
+Subtraction
+
+Multiplication
+
+Division
+
+---------------------------------------------------------------------------------
+## ✅ NumPy Functions
+
+mean() – Calculates average
+
+sum() – Calculates total
+
+std() – Calculates standard deviation
+
+reshape() – Changes array shape
+
+arange() – Generates range of values
+
+linspace() – Generates evenly spaced values
+
+-----------------------------------------------------------
+
+## ✅ Index Operations
+
+argmax() – Index of maximum value
+
+argmin() – Index of minimum value
+
+----------------------------------------------------------------
+
+### 📌 Sample Code Snippet
+
+import numpy as np
+
+arr = np.array([10, 20, 30, 40, 50])
+
+print("Mean:", np.mean(arr))
+print("Sum:", np.sum(arr))
+print("Standard Deviation:", np.std(arr))
+print("Max Index:", np.argmax(arr))
+print("Min Index:", np.argmin(arr))
+
+--------------------------------------------------------------------------
+
+## 🧠 Key Learnings
+
+NumPy enables fast and efficient numerical computation
+
+Built-in functions reduce code complexity
+
+Multi-dimensional arrays are useful for real-world data analysis
+
+------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
